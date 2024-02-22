@@ -1,4 +1,7 @@
-<h1>Hi, I'm Cenk! <br/><a href="https://www.linkedin.com/in/cenkcafer/">Computer Science and Information Security Grad</a>, <a href="https://github.com/cenkcafer"> Aspiring Cybersecurity Professional and Software Engineer</a>
+<h1>Hi, I'm Cenk! <br/>
+<a href="https://www.linkedin.com/in/cenkcafer/">Computer Science and Information Security Grad</a>,
+  
+<a href="https://github.com/cenkcafer"> Aspiring Cybersecurity Professional and Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
