@@ -6,7 +6,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Educative.io,Grokking Algorithms)
-  - [Praciting DS & Algos in Python](https://github.com/cenkcafer/educative_io_coding_problems)
+  - [Practicing DS & Algos in Python](https://github.com/cenkcafer/educative_io_coding_problems)
 
 <h2> 🤳 Connect with me:</h2>
 
